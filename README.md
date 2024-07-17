@@ -1,1 +1,2 @@
 # athletic_sales_analysis
+Using Python's Pandas library, I analysed a dataset that represented a wholesale data from a fictional company in order to address real-world business questions. I got myself familiar with the dataset by using pandas to analyze the diffrent columns, and then I transformed and manipulated the data in order to find out more from this data set such as net profit and things of that nature. I then summerized the data into multiple tables at the end to better show the results we found. 
